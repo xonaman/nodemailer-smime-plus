@@ -1,6 +1,6 @@
 {
   "name": "nodemailer-smime-plus",
-  "version": "1.3.8",
+  "version": "1.3.9",
   "description": "Up-to-date nodemailer-smime fork",
   "main": "src/plugin.js",
   "scripts": {
